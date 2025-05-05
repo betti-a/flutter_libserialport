@@ -13,7 +13,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  libserialport: ^0.3.0
+  libserialport:
+    path: libserialport
 
 dev_dependencies:
   flutter_test:
